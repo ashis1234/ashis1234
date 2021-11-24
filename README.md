@@ -1,6 +1,6 @@
 # 𝐇i <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 𝐭𝐡𝐞𝐫𝐞, I am Ashis Ghosh  <p align="right">![Profile views](https://gpvc.arturio.dev/ashis1234)</p>
 
-## 🙋🏽‍♂️About Me
+## 👨 About Me
 
 - I am a Computer Science and Engineering student at Jalpaiguri Government Engineering College ( JGEC ) pursuing a Bachelor of Technology in my Final Year.
 - I Love :heart: Programming and have a huge interest in web development.
