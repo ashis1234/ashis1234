@@ -1,4 +1,4 @@
-# 𝐇i <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 𝐭𝐡𝐞𝐫𝐞, I am Ashis Ghosh
+# 𝐇i <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 𝐭𝐡𝐞𝐫𝐞, I am Ashis Ghosh  <p align="right">![Profile views](https://gpvc.arturio.dev/ashis1234)</p>
 
 ## 🙋🏽‍♂️About Me
 
@@ -14,7 +14,7 @@
 ---
 
 
-### Find me around the web 🌎 <p align="right">![Profile views](https://gpvc.arturio.dev/ashis1234)</p>
+### Find me around the web 🌎
 
 
 <p align="center">
