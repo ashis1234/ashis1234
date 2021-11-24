@@ -18,8 +18,8 @@
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ashis-ghosh-874526193/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.24.0/icons/linkedin.svg" alt="linkedin profile ashis-ghosh-874526193" height="40" width="40" /></a>
 
+ [![Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashis-ghosh-874526193/)
  [![Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ashis.ghosh.334839)
  [![Badge](https://cp-logo.vercel.app/codechef/ashis123)](https://www.codechef.com/users/ashis123)
  [![Badge](https://cp-logo.vercel.app/codeforces/ghoshashis545)](https://www.codeforces.com/ghoshashis545)
@@ -27,7 +27,6 @@
  [![Badge](https://cp-logo.vercel.app/leetcode/ghoshashis545)](https://www.leetcode.com/ghoshashis545)
 
 </p>
-</br>
 </br>
 
 
@@ -42,6 +41,11 @@
 
 ---
 ## Gtihub Statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashis1234&show_icons=true&hide_border=true&count_private=true&show_owner=true&theme=tokyonight)
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashis1234&theme=onedark)
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=ashis1234&show_icons=true&count_private=true&theme=onedark">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=ashis1234&show_icons=true&count_private=true&theme=onedark" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ashis1234&theme=onedark">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashis1234&theme=onedark&exclude_repo=Competitive-Programming&hide=html,css" />
+</a>
+</div>
