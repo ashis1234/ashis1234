@@ -1,45 +1,47 @@
-## Ashis Ghosh
+# 𝐇i <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 𝐭𝐡𝐞𝐫𝐞, I am Ashis Ghosh
 
-### Hi there 👋
- I am a Fullstack Web developer. I keep learning about various technologies on daily basis and have a huge interest in backend development. I enjoy developing user-friendly fullstack application in a organized manner with well maintained backend server and boosting perfomance by clean and efficient code.
+## 🙋🏽‍♂️About Me
 
----
-
-### 📫 How to reach me:
-
-[<img align="left" alt="apurba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ashis-ghosh-874526193/)
-[<img align="left" alt="apmondall123@gmail.com | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:ghoshashis545@gmail.com)
-
-</br>
-</br>
-
-![Profile views](https://gpvc.arturio.dev/ashis1234)
+- I am a Computer Science and Engineering student at Jalpaiguri Government Engineering College ( JGEC ) pursuing a Bachelor of Technology in my Final Year.
+- I Love :heart: Programming and have a huge interest in web development.
+- 🔭 I’m currently working on [Seamless](https://seamless.se/)
+- 🌱 I’m currently learning **Java**
+- 💬 Ask me about **Django,JavaScript,Postgres,React,C++**
+- 📫 How to reach me **ghoshashis545@gmail.com**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OMfwD-m2HjWNX2mkWltGJPKHKGYaGTKp/view?usp=sharing)
+- ⚡ Fun fact **I love problem solving and cricket**
 
 ---
 
-### Frontend
+
+### Find me around the web 🌎 <p align="right">![Profile views](https://gpvc.arturio.dev/ashis1234)</p>
+
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ashis-ghosh-874526193/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.24.0/icons/linkedin.svg" alt="linkedin profile ashis-ghosh-874526193" height="40" width="40" /></a>
+
+ [![Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ashis.ghosh.334839)
+ [![Badge](https://cp-logo.vercel.app/codechef/ashis123)](https://www.codechef.com/users/ashis123)
+ [![Badge](https://cp-logo.vercel.app/codeforces/ghoshashis545)](https://www.codeforces.com/ghoshashis545)
+ [![Badge](https://cp-logo.vercel.app/atcoder/ghoshashis545)](https://www.atcoder.jp/users/ghoshashis545)
+ [![Badge](https://cp-logo.vercel.app/leetcode/ghoshashis545)](https://www.leetcode.com/ghoshashis545)
+
+</p>
+</br>
+</br>
+
+
+---
+
+🧰 Toolbox
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-
-### Backend
-
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Django-007ACC?style=flat&logo=django&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Java-787878?style=flat&logo=java&logoColor=FFFFFF"> 
-### Database
-
-<img src="https://img.shields.io/badge/-Mysql-4DB33D?style=flat&logo=mysql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-PostgreSQL-0064a5?style=flat&logo=postgresql&logoColor=FFFFFF">
-
-### Tech & Tools Preference
-
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
-
-### Other Languages
-
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Django-007ACC?style=flat&logo=django&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Mysql-4DB33D?style=flat&logo=mysql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-PostgreSQL-0064a5?style=flat&logo=postgresql&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white"> 
 
 ---
-
+## Gtihub Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashis1234&show_icons=true&hide_border=true&count_private=true&show_owner=true&theme=tokyonight)
-
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashis1234&layout=compact&exclude_repo=iCoder&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashis1234&theme=onedark)
